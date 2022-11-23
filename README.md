@@ -7,6 +7,8 @@
 - 💬 Ask me about **react,JavaScript,Redux**
 
 - 📫 How to reach me **dasmoumita.me@gmail.com**
+- <br/>
+- <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
