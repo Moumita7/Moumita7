@@ -1,4 +1,4 @@
-<br/>
+
 <h1 align="center">Hi 👋, I'm Moumita Das</h1>
 <h2 align="center">I am very passionate to create Interactive websites.</h2>
 <p align="center">
@@ -42,19 +42,19 @@
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
-<br>
+
 <h2 align="center">📊 My Github Stats</h2>
-         <br/>   
+<!--          <br/>    -->
           <p align="center">      
         <img alt="moumita7 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moumita7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </p>      
-           <br/>
+<!--            <br/> -->
          <p align="center">
               <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="moumita7 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moumita7&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
              <p align="center">                                                                                                 
           <img alt="moumita7 Github Stats" src="https://github-readme-stats.vercel.app/api?username=moumita7&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
           </p>                                                                
-      <br/>
-      <br/>
+<!--       <br/> -->
+<!--       <br/> -->
 
 
