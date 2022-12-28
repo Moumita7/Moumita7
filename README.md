@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/moumita-das07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/moumita-das07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/moumita-das07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/moumita-das07" height="30" width="40" />https://linkedin.com/in/www.linkedin.com/in/moumita-das07</a>
 </p>
 <p align="left">
-<a href="https://moumita7.github.io/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678130-profile-alt-4-512.png" alt="www.linkedin.com/in/moumita-das07" height="30" width="40" /></a>
+<a href="https://moumita7.github.io/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678130-profile-alt-4-512.png" alt="www.linkedin.com/in/moumita-das07" height="30" width="40" />https://moumita7.github.io/</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
