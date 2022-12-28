@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" hight="50%" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif"/>
+<img align="center" alt="Coding" width="50%" hight="50%" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif"/>
 
 <br/>
 <h1 align="center">Hi 👋, I'm Moumita Das</h1>
