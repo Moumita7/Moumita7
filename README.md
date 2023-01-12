@@ -78,7 +78,7 @@
 <br/>
 <h2 align="center">📊 My Leetcode Stats</h2>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/user1180B?theme=unicorn"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/MoumitaDas07?theme=unicorn"/>
 </p>
 <br/>
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
