@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Devoloper**
 
-- 💬 Ask me about **react,JavaScript,Redux**
+- 💬 Ask me about **react,JavaScript,Redux,Redux-thunk,nextjs**
 
 - 📫 How to reach me **dasmoumita.me@gmail.com**
 - 🪪 Check My protfolio :- **https://moumita7.github.io/**
