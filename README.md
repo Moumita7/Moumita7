@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **dasmoumita.me@gmail.com**
 - 🪪 Check My protfolio :- **https://moumita7.github.io/**
-- 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/14YOuTrCyX6ayfn7PeyO_2kLxGa8l7PK_/view?usp=sharing" alt="resume">Resume</a>
+<!--         - 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/14YOuTrCyX6ayfn7PeyO_2kLxGa8l7PK_/view?usp=sharing" alt="resume">Resume</a>    -->
+
 <br/>
 <br/>
 
